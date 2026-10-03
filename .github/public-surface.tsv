@@ -1,0 +1,7 @@
+# repo	action	ci  (generated from the curation plan; KEEP_PUBLIC or ARCHIVE; ci=yes means latest run on the default branch must succeed)
+agent-trace-receipts	KEEP_PUBLIC	yes
+cobol-pic-probe	KEEP_PUBLIC	yes
+llm-adversarial-gate	KEEP_PUBLIC	yes
+rag-groundedness-gate	KEEP_PUBLIC	yes
+rag-grounded-gate	ARCHIVE	yes
+mpuodziukas-labs	KEEP_PUBLIC	no
